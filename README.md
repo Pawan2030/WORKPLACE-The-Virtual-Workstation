@@ -98,22 +98,6 @@
 ![join room](https://github.com/user-attachments/assets/d4ff7e67-3838-4f9a-9d74-f5afe89d7e5c)
 
 
----
-
-## 📂 Directory Structure  
-```plaintext
-/Frontend
-   ├── Components/
-   ├── Pages/
-   ├── Redux/
-   └── Styles/
-
-/Backend
-   ├── Models/
-   ├── Routes/
-   ├── Controllers/
-   └── Utils/
-
 ## Challenges
 
 Given this is my first fullstack project, everything in the backend domain was very new to me.
