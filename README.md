@@ -91,8 +91,8 @@
  
 
 ### 🖼️ Face Detection in Action  
-![face](https://github.com/user-attachments/assets/225f8eff-83d1-4d3c-8814-531e381cbb27)
 ![gace detection](https://github.com/user-attachments/assets/e6cd4e1d-0a3b-4480-bce3-fb2c3f7d3102)
+![face](https://github.com/user-attachments/assets/225f8eff-83d1-4d3c-8814-531e381cbb27)
 
 ### 🖼️ Virtual Rooms, classroom, workplace, chat
 ![join room](https://github.com/user-attachments/assets/d4ff7e67-3838-4f9a-9d74-f5afe89d7e5c)
@@ -114,15 +114,15 @@ Workplace is an evolving project with exciting possibilities on the horizon. Her
 
 - 🎮 **Real-Time Games**: As a step towards reimagining social interaction, I'm exploring the inclusion of real-time games within Workplace. Imagine playing interactive games with your friends while listening to music, all within the same platform. This addition will take the concept of shared experiences to a whole new level.
 
-- 🧪 **End-to-End Testing with Jest**: I also plan to learn Jest and add test suites for both frontend and backend.
+- 🧪 **End-to-End Testing with Jest**: I also plan to learn Jest and add test suites for both frontend and backend. and I am constantly striving to make the platform more engaging and interactive, and your feedback will play a significant role in shaping its future. 🚀
 
-I am constantly striving to make the platform more engaging and interactive, and your feedback will play a significant role in shaping its future. 🚀
+💡 **Conclusion**
 
-💡 ### Conclusion
 WORKPLACE transforms virtual collaboration by seamlessly integrating real-time communication, cloud-powered features, and advanced technologies. It offers a fast, secure, and engaging experience for both work and social interactions.
 
-🤝 ### Acknowledgments
-Special thanks to everyone who supported and contributed to the development of WORKPLACE. Your feedback and suggestions drive its continued growth and evolution!
+🤝 **Acknowledgments**
+
+   Special thanks to everyone who supported and contributed to the development of WORKPLACE. Your feedback and suggestions drive its continued growth and evolution!
 
 
 
